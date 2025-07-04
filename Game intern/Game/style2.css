@@ -27,13 +27,12 @@ body {
   box-shadow: 0 0 30px rgba(0, 0, 0, 0.2);
 }
 
-/* Player Sections with Separate Backgrounds */
 .player-0-section {
-  background: linear-gradient(to bottom, #fab0ea, #eaa7d9); /* Player 1 color */
+  background: linear-gradient(to bottom, #fab0ea, #eaa7d9); 
 }
 
 .player-1-section {
-  background: linear-gradient(to bottom, #cd6f9c, #ffd6e8); /* Player 2 color */
+  background: linear-gradient(to bottom, #cd6f9c, #ffd6e8);
 }
 
 .player-content {
